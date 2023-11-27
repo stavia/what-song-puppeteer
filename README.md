@@ -1,5 +1,5 @@
 # what-song-puppeteer
-what-song-puppeteer is a package for soundtracking movies, series, etc. using what-song.com
+what-song-puppeteer is a package to get the soundtrack of movies, series, etc. using what-song.com
 
 Example:
 ```
