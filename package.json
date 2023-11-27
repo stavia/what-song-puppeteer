@@ -1,0 +1,25 @@
+{
+  "name": "tunefind-puppeteer",
+  "description": "Retrieves songs and artists of movies, series",
+  "dependencies": {
+    "puppeteer": "^19.3.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "yargs": "^17.6.2"
+  },
+  "keywords": [
+    "tunefind",
+    "scraper",
+    "puppeteer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha index.test.js"
+  }
+}
